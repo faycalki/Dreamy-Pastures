@@ -33,9 +33,8 @@ Contributions are welcome! If you have any suggestions, feature requests, or bug
 ## Credits
 
 Dreamy Pastures was developed by [Your Name] and [Co-Author's Name]. Visit our websites for more information about us and our projects:
-- [Your Website](www.faycalkilali.com)
+- [Faycal Kilali](www.faycalkilali.com)
 - Peter Jack MacAulay
-- Dylan Kim
 
 ## License
 
