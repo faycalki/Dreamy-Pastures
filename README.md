@@ -32,7 +32,7 @@ Contributions are welcome! If you have any suggestions, feature requests, or bug
 
 ## Credits
 
-Dreamy Pastures was developed by [Your Name] and [Co-Author's Name]. Visit our websites for more information about us and our projects:
+Dreamy Pastures was developed by Faycal Kilali and Peter Jack MacAulay.
 - [Faycal Kilali](www.faycalkilali.com)
 - Peter Jack MacAulay
 
