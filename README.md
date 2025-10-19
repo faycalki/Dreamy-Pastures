@@ -35,6 +35,7 @@ Contributions are welcome! If you have any suggestions, feature requests, or bug
 Dreamy Pastures was developed by Faycal Kilali and Peter Jack MacAulay.
 - [Faycal Kilali](www.faycalkilali.com)
 - Peter Jack MacAulay
+This is based on the board game "Sheepy Time". 
 
 ## License
 
